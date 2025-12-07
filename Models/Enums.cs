@@ -1,4 +1,4 @@
-namespace WeightTracker.Models;
+namespace CrossHealthX.Models;
 
 public static class Enums
 {

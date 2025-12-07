@@ -4,24 +4,15 @@ namespace WeightTracker;
 
 public partial class App : Application
 {
-	static Database? database;
+    public static ActivityDatabase ActivityDatabase { get; private set; }
 
-	public static Database Database
-	{
-		get
-		{
-			// create new database instance
-			if (database == null)
-				database = new Database();
+    public App()
+    {
+        InitializeComponent();
 
-			return database;
-		}
-	}
+        // Ініціалізація бази даних для всього додатка
+        ActivityDatabase = new ActivityDatabase();
 
-	public App()
-	
-		InitializeComponent();
-
-		MainPage = new AppShell();
-	}
+        MainPage = new AppShell();
+    }
 }

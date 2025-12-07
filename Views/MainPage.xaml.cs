@@ -10,7 +10,7 @@ public partial class MainPage : ContentPage
     public MainPage()
     {
         InitializeComponent();
-        _viewModel = new ActivityMainModelView();
+        _viewModel = new ActivityMainModelView(App.ActivityDatabase, App.LocationService);
         BindingContext = _viewModel;
     }
 
@@ -18,19 +18,15 @@ public partial class MainPage : ContentPage
     {
         base.OnAppearing();
 
-        // Якщо додаток не ініціалізовано – перенаправляємо на welcome page
         if (!Preferences.ContainsKey("isAppInit"))
             Navigation.PushAsync(new WelcomePage());
     }
 
     private async void NewBtn_Clicked(object sender, EventArgs e)
     {
-        // Відкриваємо попап для додавання активності
         var shouldRefresh = await this.ShowPopupAsync(new NewActivityView());
         if (shouldRefresh != null && (bool)shouldRefresh)
-        {
             _viewModel.Populate();
-        }
     }
 
     private async void GraphBtn_Clicked(object sender, EventArgs e)

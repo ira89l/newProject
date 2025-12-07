@@ -7,38 +7,33 @@ namespace CrossHealthX.ViewModels;
 
 public partial class ActivityGraphModelView : ObservableObject
 {
-    [ObservableProperty]
-    private string selectedInterval = "Week";
-
-    [ObservableProperty]
-    private LineChart chartData;
-
-    [ObservableProperty]
-    private List<Activity> activitiesHistory = new List<Activity>();
+    [ObservableProperty] private string selectedInterval = "Week";
+    [ObservableProperty] private LineChart chartData;
+    [ObservableProperty] private List<Activity> activitiesHistory = new List<Activity>();
 
     public ActivityGraphModelView()
     {
         Populate();
     }
 
-    partial void OnSelectedIntervalChanged(string value)
-    {
-        Populate();
-    }
+    partial void OnSelectedIntervalChanged(string value) => Populate();
 
     public async void Populate()
     {
-        int intervalDays = -7;
-        if (SelectedInterval == "Month") intervalDays = -30;
-        if (SelectedInterval == "Year") intervalDays = -365;
+        int intervalDays = SelectedInterval switch
+        {
+            "Month" => -30,
+            "Year" => -365,
+            _ => -7
+        };
 
-        DateTime dateLimit = DateTime.Today.AddDays(intervalDays);
-        ActivitiesHistory = (await App.Database.GetActivities())
-                                .Where(a => a.Date >= dateLimit)
-                                .OrderBy(a => a.Date)
-                                .ToList();
+        var dateLimit = DateTime.Today.AddDays(intervalDays);
+        ActivitiesHistory = (await App.ActivityDatabase.GetActivities())
+                            .Where(a => a.Date >= dateLimit)
+                            .OrderBy(a => a.Date)
+                            .ToList();
 
-        if (ActivitiesHistory.Count == 0)
+        if (!ActivitiesHistory.Any())
         {
             ChartData = new LineChart
             {
@@ -47,13 +42,12 @@ public partial class ActivityGraphModelView : ObservableObject
             return;
         }
 
-        List<ChartEntry> entries = ActivitiesHistory.Select(a =>
-            new ChartEntry(a.Steps)
-            {
-                Label = a.Date.ToString("MM/dd"),
-                ValueLabel = a.Steps.ToString(),
-                Color = SKColor.Parse("#77d065")
-            }).ToList();
+        var entries = ActivitiesHistory.Select(a => new ChartEntry(a.Steps)
+        {
+            Label = a.Date.ToString("MM/dd"),
+            ValueLabel = a.Steps.ToString(),
+            Color = SKColor.Parse("#77d065")
+        }).ToList();
 
         ChartData = new LineChart { Entries = entries };
     }

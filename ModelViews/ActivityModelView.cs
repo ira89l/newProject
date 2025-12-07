@@ -10,19 +10,14 @@ public partial class ActivityViewModel : ObservableObject
     private readonly ActivityDatabase _db;
     private readonly LocationService _locationService;
 
-    [ObservableProperty]
-    private int steps;
+    [ObservableProperty] private int steps;
+    [ObservableProperty] private int calories;
+    [ObservableProperty] private double distance;
 
-    [ObservableProperty]
-    private int calories;
-
-    [ObservableProperty]
-    private double distance;
-
-    public ActivityViewModel()
+    public ActivityViewModel(ActivityDatabase db, LocationService locationService)
     {
-        _db = new ActivityDatabase();
-        _locationService = new LocationService();
+        _db = db;
+        _locationService = locationService;
 
         LoadDataCommand = new AsyncRelayCommand(LoadDataAsync);
         AddStepsCommand = new RelayCommand(AddSteps);
@@ -33,21 +28,11 @@ public partial class ActivityViewModel : ObservableObject
 
     private async Task LoadDataAsync()
     {
-        // Отримати кроки з сенсора
-        Steps = (int)await _locationService.GetStepCountAsync();
-
-        // Отримати GPS для дистанції
+        Steps = await _locationService.GetStepCountAsync();
         var location = await _locationService.GetCurrentLocationAsync();
-        if (location != null)
-        {
-            // Простий приклад: дистанція = кроки * середня довжина кроку (0.762 м)
-            Distance = Steps * 0.762 / 1000; // км
-        }
-
-        // Калорії: приблизно 0.04 ккал на крок
+        Distance = Steps * 0.762 / 1000;
         Calories = (int)(Steps * 0.04);
 
-        // Зберегти у базу
         var activity = new Activity
         {
             Steps = Steps,

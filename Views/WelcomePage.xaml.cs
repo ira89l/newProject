@@ -1,19 +1,21 @@
-using WeightTracker;
+using CrossHealthX.ViewModels;
 
-namespace MauiApp1;
+namespace CrossHealthX.Views;
 
 public partial class WelcomePage : ContentPage
 {
-	public WelcomePage()
-	{
-		InitializeComponent();
+    private readonly WelcomeModelView _viewModel;
 
-		BindingContext = new WelcomeModelView();
-	}
+    public WelcomePage()
+    {
+        InitializeComponent();
+        _viewModel = new WelcomeModelView();
+        BindingContext = _viewModel;
+    }
 
-	private async void NextBtn_Clicked(object sender, EventArgs e)
-	{
-		if (((WelcomeModelView)BindingContext).Increment())
-			await Navigation.PopAsync();
-	}
+    private async void NextBtn_Clicked(object sender, EventArgs e)
+    {
+        if (_viewModel.Increment())
+            await Navigation.PopAsync();
+    }
 }

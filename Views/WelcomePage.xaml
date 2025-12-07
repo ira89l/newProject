@@ -1,68 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:material="http://schemas.enisn-projects.io/dotnet/maui/uraniumui/material"
-             x:Class="MauiApp1.WelcomePage"
+             x:Class="CrossHealthX.Views.WelcomePage"
              Shell.NavBarIsVisible="false">
-    <Grid
-        x:Name="CardBody">
+
+    <Grid x:Name="CardBody">
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
             <RowDefinition Height="80" />
         </Grid.RowDefinitions>
 
         <ScrollView Grid.Row="0" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
-            <StackLayout VerticalOptions="CenterAndExpand" Padding="20,20,20,20">
+            <StackLayout VerticalOptions="CenterAndExpand" Padding="20">
 
-                <!-- Title -->
                 <Label x:Name="CardTitle" Text="{Binding Title}" FontSize="40" HorizontalTextAlignment="Center"/>
-
-                <!-- Icons -->
-                <Image x:Name="CardImage" Source="{Binding Image}" Margin="80" HorizontalOptions="Center" HeightRequest="150" WidthRequest="150" />
-
-                <!-- Index 0 -->
-                <Label Text="{Binding Description}" HorizontalTextAlignment="Center" IsVisible="{Binding IsTitle}"/>
-
-                <!-- Index 1, 2 -->
-                <material:PickerField Title="{Binding PickerTitle}" ItemsSource="{Binding PickerItems}" SelectedItem="{Binding SelectedItem}" IsVisible="{Binding IsPicker}"  />
-
-                <!-- Index 3 (Metric) -->
-                <material:TextField Title="{Binding PickerTitle}" Text="{Binding Height}" Keyboard="Numeric" IsVisible="{Binding IsMetricHeight}"  />
-
-                <!-- Index 3 (Imperial) -->
-                <material:PickerField Title="Height (Ft.)" SelectedItem="{Binding HeightFt}" IsVisible="{Binding IsImperialHeight}">
-                    <material:PickerField.ItemsSource>
-                        <x:Array Type="{x:Type x:String}">
-                            <x:String>1</x:String>
-                            <x:String>2</x:String>
-                            <x:String>3</x:String>
-                            <x:String>4</x:String>
-                            <x:String>5</x:String>
-                            <x:String>6</x:String>
-                            <x:String>7</x:String>
-                            <x:String>8</x:String>
-                        </x:Array>
-                    </material:PickerField.ItemsSource>
-                </material:PickerField>
-
-                <material:PickerField Title="Height (In.)" SelectedItem="{Binding HeightIn}" IsVisible="{Binding IsImperialHeight}">
-                    <material:PickerField.ItemsSource>
-                        <x:Array Type="{x:Type x:String}">
-                            <x:String>0</x:String>
-                            <x:String>1</x:String>
-                            <x:String>2</x:String>
-                            <x:String>3</x:String>
-                            <x:String>4</x:String>
-                            <x:String>5</x:String>
-                            <x:String>6</x:String>
-                            <x:String>7</x:String>
-                            <x:String>8</x:String>
-                            <x:String>9</x:String>
-                            <x:String>10</x:String>
-                            <x:String>11</x:String>
-                        </x:Array>
-                    </material:PickerField.ItemsSource>
-                </material:PickerField>
+                
+                <StackLayout Orientation="Vertical" Padding="20,10">
+                    <Label Text="{Binding PickerTitle}" FontSize="20" HorizontalTextAlignment="Center"/>
+                    <Picker ItemsSource="{Binding PickerItems}" SelectedItem="{Binding SelectedItem}" />
+                </StackLayout>
+                
             </StackLayout>
         </ScrollView>
 

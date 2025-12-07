@@ -12,7 +12,6 @@
             </LinearGradientBrush>
         </Grid.Background>
 
-        <!-- Основні показники -->
         <StackLayout Orientation="Horizontal" Grid.Row="1" HorizontalOptions="Center" Padding="5">
             <Label Text="{Binding Steps}" FontSize="72" VerticalOptions="End" TextColor="White"/>
             <Label Text=" steps" FontSize="36" VerticalOptions="End" TextColor="White" />
@@ -25,7 +24,6 @@
                FontSize="24" 
                Padding="0"/>
 
-        <!-- Прогрес -->
         <Frame Grid.Row="3" Margin="0,20" VerticalOptions="Center" Padding="10" BackgroundColor="White" Opacity="0.6">
             <Grid ColumnDefinitions="*,*,*" RowDefinitions="*,*">
                 <StackLayout Grid.Row="0" Grid.Column="0" Orientation="Horizontal" HorizontalOptions="Center">
@@ -44,7 +42,6 @@
             </Grid>
         </Frame>
 
-        <!-- Кнопки дій -->
         <Grid Grid.Row="5" ColumnDefinitions="*,*,*" Padding="0, 20">
             <ImageButton Source="graph_icon.png" Grid.Column="0" Clicked="GraphBtn_Clicked"/>
             <ImageButton Source="add_icon.png" Grid.Column="1" Clicked="NewBtn_Clicked"/>

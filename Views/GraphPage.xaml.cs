@@ -13,7 +13,7 @@ public partial class GraphPage : ContentPage
     public GraphPage()
     {
         InitializeComponent();
-        _viewModel = new ActivityGraphModelView();
+        _viewModel = new ActivityGraphModelView(App.ActivityDatabase);
         BindingContext = _viewModel;
     }
 
@@ -25,17 +25,15 @@ public partial class GraphPage : ContentPage
 
     private async void DataHistory_SelectionChanged(object sender, SelectionChangedEventArgs e)
     {
-        var selectedActivity = (Activity)((CollectionView)sender).SelectedItem;
-        if (selectedActivity == null)
-            return;
-
-        var shouldRefresh = await this.ShowPopupAsync(new DetailedActivityView(selectedActivity));
-
-        if (shouldRefresh != null && (bool)shouldRefresh)
+        if (((CollectionView)sender).SelectedItem is Activity selectedActivity)
         {
-            _viewModel.Populate();
-        }
+            var shouldRefresh = await this.ShowPopupAsync(new DetailedActivityView(selectedActivity));
+            if (shouldRefresh != null && (bool)shouldRefresh)
+            {
+                _viewModel.Populate();
+            }
 
-        DataHistory.SelectedItem = null;
+            ((CollectionView)sender).SelectedItem = null;
+        }
     }
 }

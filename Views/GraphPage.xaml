@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="CrossHealthX.Views.GraphPage"
              xmlns:micro="clr-namespace:Microcharts.Maui;assembly=Microcharts.Maui"
+             x:Class="CrossHealthX.Views.GraphPage"
              Title="Activity History">
 
     <ScrollView>
         <VerticalStackLayout Margin="20">
 
-            <!-- Фільтри -->
             <Label Text="FILTERS" FontAttributes="Bold" FontSize="18"/>
             <Picker Title="Interval" SelectedItem="{Binding SelectedInterval}">
                 <Picker.ItemsSource>
@@ -20,15 +19,13 @@
                 </Picker.ItemsSource>
             </Picker>
 
-            <!-- Графік -->
             <Label Text="GRAPH" FontAttributes="Bold" FontSize="18" Margin="0,10,0,0"/>
             <Frame BackgroundColor="White" Padding="10" Opacity="0.6">
-                <micro:ChartView x:Name="chartView" Chart="{Binding ChartData}" HeightRequest="200"/>
+                <micro:ChartView Chart="{Binding ChartData}" HeightRequest="200"/>
             </Frame>
 
-            <!-- Історія -->
             <Label Text="HISTORY" FontAttributes="Bold" FontSize="18" Margin="0,10,0,0"/>
-            <CollectionView x:Name="DataHistory" ItemsSource="{Binding ActivitiesHistory}" SelectionMode="Single" SelectionChanged="DataHistory_SelectionChanged">
+            <CollectionView ItemsSource="{Binding ActivitiesHistory}" SelectionMode="Single" SelectionChanged="DataHistory_SelectionChanged">
                 <CollectionView.EmptyView>
                     <StackLayout Padding="20">
                         <Label Text="No Activity Records Found" HorizontalOptions="Center" FontSize="20"/>
