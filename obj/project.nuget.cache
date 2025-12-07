@@ -1,0 +1,1470 @@
+{
+  "version": 2,
+  "dgSpecHash": "dI4/rGwumQI=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ira\\.nuget\\packages\\aiforms.maui.settingsview\\1.0.7\\aiforms.maui.settingsview.1.0.7.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\communitytoolkit.maui.7.0.1.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microcharts.maui\\1.0.0\\microcharts.maui.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.logging.debug\\6.0.0\\microsoft.extensions.logging.debug.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.controls\\8.0.3\\microsoft.maui.controls.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.3\\microsoft.maui.controls.build.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.3\\microsoft.maui.controls.compatibility.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.controls.core\\8.0.3\\microsoft.maui.controls.core.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.controls.xaml\\8.0.3\\microsoft.maui.controls.xaml.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.core\\8.0.3\\microsoft.maui.core.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.essentials\\8.0.3\\microsoft.maui.essentials.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.graphics\\8.0.3\\microsoft.maui.graphics.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.3\\microsoft.maui.resizetizer.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.windowsappsdk\\1.0.3\\microsoft.windowsappsdk.1.0.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\skiasharp.views.maui.controls\\2.88.3\\skiasharp.views.maui.controls.2.88.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\skiasharp.views.maui.core\\2.88.3\\skiasharp.views.maui.core.2.88.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\skiasharp.views.winui\\2.88.3\\skiasharp.views.winui.2.88.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.8\\sqlitepclraw.bundle_green.2.1.8.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\sqlitepclraw.core\\2.1.8\\sqlitepclraw.core.2.1.8.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.8\\sqlitepclraw.lib.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.1.8\\sqlitepclraw.lib.e_sqlite3.android.2.1.8.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.8\\sqlitepclraw.provider.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\sqlitepclraw.provider.sqlite3\\2.1.8\\sqlitepclraw.provider.sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\uraniumui.material\\2.7.4\\uraniumui.material.2.7.4.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.36\\microsoft.netcore.app.runtime.win-x86.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm\\6.0.36\\microsoft.aspnetcore.app.runtime.win-arm.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.55\\microsoft.windows.sdk.net.ref.10.0.19041.55.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.36\\microsoft.aspnetcore.app.runtime.win-x86.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.36\\microsoft.netcore.app.runtime.win-arm64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.36\\microsoft.aspnetcore.app.runtime.win-x64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.36\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.36\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.36\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm\\6.0.36\\microsoft.netcore.app.runtime.win-arm.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.36\\microsoft.netcore.app.runtime.win-x64.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ira\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.36\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CrossHealthX зависит от Microsoft.Maui.Controls (>= 6.0.413), но версия Microsoft.Maui.Controls 6.0.413 не найдена. Использовалась версия Microsoft.Maui.Controls 8.0.3.",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microsoft.Maui.Controls",
+      "targetGraphs": [
+        "net6.0-android21.0",
+        "net6.0-android21.0/win10-arm",
+        "net6.0-android21.0/win10-arm-aot",
+        "net6.0-android21.0/win10-arm64-aot",
+        "net6.0-android21.0/win10-x64",
+        "net6.0-android21.0/win10-x64-aot",
+        "net6.0-android21.0/win10-x86",
+        "net6.0-android21.0/win10-x86-aot",
+        "net6.0-ios1.0",
+        "net6.0-ios1.0/win10-arm",
+        "net6.0-ios1.0/win10-arm-aot",
+        "net6.0-ios1.0/win10-arm64-aot",
+        "net6.0-ios1.0/win10-x64",
+        "net6.0-ios1.0/win10-x64-aot",
+        "net6.0-ios1.0/win10-x86",
+        "net6.0-ios1.0/win10-x86-aot",
+        "net6.0-maccatalyst1.0",
+        "net6.0-maccatalyst1.0/win10-arm",
+        "net6.0-maccatalyst1.0/win10-arm-aot",
+        "net6.0-maccatalyst1.0/win10-arm64-aot",
+        "net6.0-maccatalyst1.0/win10-x64",
+        "net6.0-maccatalyst1.0/win10-x64-aot",
+        "net6.0-maccatalyst1.0/win10-x86",
+        "net6.0-maccatalyst1.0/win10-x86-aot",
+        "net6.0-windows10.0.19041",
+        "net6.0-windows10.0.19041/win10-arm",
+        "net6.0-windows10.0.19041/win10-arm-aot",
+        "net6.0-windows10.0.19041/win10-arm64-aot",
+        "net6.0-windows10.0.19041/win10-x64",
+        "net6.0-windows10.0.19041/win10-x64-aot",
+        "net6.0-windows10.0.19041/win10-x86",
+        "net6.0-windows10.0.19041/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CrossHealthX зависит от Microsoft.Maui.Controls.Compatibility (>= 6.0.413), но версия Microsoft.Maui.Controls.Compatibility 6.0.413 не найдена. Использовалась версия Microsoft.Maui.Controls.Compatibility 8.0.3.",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility",
+      "targetGraphs": [
+        "net6.0-android21.0",
+        "net6.0-android21.0/win10-arm",
+        "net6.0-android21.0/win10-arm-aot",
+        "net6.0-android21.0/win10-arm64-aot",
+        "net6.0-android21.0/win10-x64",
+        "net6.0-android21.0/win10-x64-aot",
+        "net6.0-android21.0/win10-x86",
+        "net6.0-android21.0/win10-x86-aot",
+        "net6.0-ios1.0",
+        "net6.0-ios1.0/win10-arm",
+        "net6.0-ios1.0/win10-arm-aot",
+        "net6.0-ios1.0/win10-arm64-aot",
+        "net6.0-ios1.0/win10-x64",
+        "net6.0-ios1.0/win10-x64-aot",
+        "net6.0-ios1.0/win10-x86",
+        "net6.0-ios1.0/win10-x86-aot",
+        "net6.0-maccatalyst1.0",
+        "net6.0-maccatalyst1.0/win10-arm",
+        "net6.0-maccatalyst1.0/win10-arm-aot",
+        "net6.0-maccatalyst1.0/win10-arm64-aot",
+        "net6.0-maccatalyst1.0/win10-x64",
+        "net6.0-maccatalyst1.0/win10-x64-aot",
+        "net6.0-maccatalyst1.0/win10-x86",
+        "net6.0-maccatalyst1.0/win10-x86-aot",
+        "net6.0-windows10.0.19041",
+        "net6.0-windows10.0.19041/win10-arm",
+        "net6.0-windows10.0.19041/win10-arm-aot",
+        "net6.0-windows10.0.19041/win10-arm64-aot",
+        "net6.0-windows10.0.19041/win10-x64",
+        "net6.0-windows10.0.19041/win10-x64-aot",
+        "net6.0-windows10.0.19041/win10-x86",
+        "net6.0-windows10.0.19041/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0). Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-android21.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0). Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-android21.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0). Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0). Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0). Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-ios1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0). Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-ios1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0). Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0). Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0). Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0). Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0). Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0). Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0). Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0). Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0). Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-android21.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-android21.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-ios1.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-ios1.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет Microcharts.Maui 1.0.0 несовместим с net6.0-maccatalyst1.0 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет Microcharts.Maui 1.0.0 поддерживает:\r\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-ios16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-maccatalyst16.1 (.NETCoreApp,Version=v6.0)\r\n  - net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "Microcharts.Maui",
+      "targetGraphs": [
+        "net6.0-maccatalyst1.0/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-arm64-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x64. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x64-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x86. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет AiForms.Maui.SettingsView 1.0.7 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет AiForms.Maui.SettingsView 1.0.7 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.2 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.2 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "AiForms.Maui.SettingsView",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет UraniumUI.Material 2.7.4 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет UraniumUI.Material 2.7.4 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "UraniumUI.Material",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Пакет CommunityToolkit.Maui 7.0.1 несовместим с net6.0-windows10.0.19041 (.NETCoreApp,Version=v6.0) / win10-x86-aot. Пакет CommunityToolkit.Maui 7.0.1 поддерживает:\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-android34.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-ios17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-maccatalyst17.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-tizen8.0 (.NETCoreApp,Version=v8.0)\r\n  - net8.0-windows10.0.19041 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "filePath": "C:\\Users\\Ira\\Desktop\\newProject\\CrossHealthX.csproj",
+      "libraryId": "CommunityToolkit.Maui",
+      "targetGraphs": [
+        "net6.0-windows10.0.19041/win10-x86-aot"
+      ]
+    }
+  ]
+}
